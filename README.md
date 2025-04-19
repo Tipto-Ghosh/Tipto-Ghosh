@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I’m an enthusiastic and disciplined Computer Sci
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a BSc in Computer Science
-- 📈 CGPA: **3.99**
+- 🎓 Currently pursuing a BSc in Computer Science @AIUB
+- 👨‍🎓 Currently At 5th Semester
+- 📈 Current CGPA: **3.99**
 - 🔬 Looking forward to pursuing an MSc in **Machine Learning** or **Artificial Intelligence** abroad
 - 💡 A fast learner, always curious and excited to explore new technologies
 - 💪 Completed **100-day LeetCode streak** and still going strong!
@@ -58,11 +59,9 @@ Welcome to my GitHub profile! I’m an enthusiastic and disciplined Computer Sci
 
 Feel free to reach out — I’d love to connect and collaborate!
 
-- 📫 **Email**: *tiptoghosh@gmail.com*
-- 
+- 📫 **Email**: *tiptoghosh@gmail.com* 
 - 💼 **LinkedIn**: *(https://www.linkedin.com/in/tipto-ghosh-4b0aab283/)*
 - 📝 **LeetCode**: *https://leetcode.com/u/Tipto_Ghosh/*
-
 
 ---
 
