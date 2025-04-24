@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Tipto Ghosh
 
-Welcome to my GitHub profile! I’m an enthusiastic and disciplined Computer Science undergrad from Bangladesh 🇧🇩, passionate about Machine Learning, Artificial Intelligence, and Algorithm Design.
+Welcome to my GitHub profile!
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing a BSc in Computer Science @AIUB
-- 👨‍🎓 Currently At 5th Semester
+- 👨‍🎓 Currently At **5th** Semester
 - 📈 Current CGPA: **3.99**
 - 🔬 Looking forward to pursuing an MSc in **Machine Learning** or **Artificial Intelligence** abroad
 - 💡 A fast learner, always curious and excited to explore new technologies
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m an enthusiastic and disciplined Computer Sci
 ## 📁 Projects & Interests
 
 - 🤖 **ML/AI Projects** in progress
-- 🧪 Built Hospital Management System with **Java Swing + MySQL**
+- 🧪 Built **Hospital Management System** and **Airline Management System** with **Java Swing + MySQL**
 - 🔧 Working on **ESP32-CAM** based IoT projects (plant monitoring and image capture)
 - 🧩 Regularly solving LeetCode problems
 - 📂 Structuring a GitHub repo: **Data Structure and Algorithm** (topic-wise organized solutions)
