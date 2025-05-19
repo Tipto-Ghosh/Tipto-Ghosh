@@ -60,7 +60,7 @@ Welcome to my GitHub profile!
 Feel free to reach out — I’d love to connect and collaborate!
 
 - 📫 **Email**: *tiptoghosh@gmail.com* 
-- 💼 **LinkedIn**: *(https://www.linkedin.com/in/tipto-ghosh-4b0aab283/)*
+- 💼 **LinkedIn**: *https://www.linkedin.com/in/tipto-ghosh-4b0aab283/*
 - 📝 **LeetCode**: *https://leetcode.com/u/Tipto_Ghosh/*
 
 ---
