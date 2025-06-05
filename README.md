@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 
 - 🎓 Currently pursuing a BSc in Computer Science @AIUB
 - 👨‍🎓 Currently At **5th** Semester
-- 📈 Current CGPA: **3.99**
 - 🔬 Looking forward to pursuing an MSc in **Machine Learning** or **Artificial Intelligence** abroad
 - 💡 A fast learner, always curious and excited to explore new technologies
 - 💪 Completed **100-day LeetCode streak** and still going strong!
