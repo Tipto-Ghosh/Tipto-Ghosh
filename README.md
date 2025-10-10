@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 BSc in **Computer Science** @ AIUB  
-- 📚 Currently in **6th Semester**
+- 📚 Currently in **7th Semester**
 - 🌍 Aiming for MSc in **Machine Learning / AI** abroad  
 - ⚡ Fast learner | Technology enthusiast | Deep thinker  
 - 🧠 Following: `MIT 6.034 (ML Theory)` + `Microsoft Free ML Course (Practical)`  
