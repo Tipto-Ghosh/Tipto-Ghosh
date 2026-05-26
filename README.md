@@ -23,7 +23,7 @@ I always try to approach the problems with a research mindset: understanding the
 ## Education
 
 **B.Sc. in Computer Science** — American International University-Bangladesh (AIUB)  
-*Expected graduation: 2025 · Current CGPA: 3.99 / 4.00*
+*Expected graduation: 2027 · Current CGPA: 3.99 / 4.00*
 
 ---
 
