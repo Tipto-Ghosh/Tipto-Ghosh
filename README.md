@@ -97,15 +97,6 @@ Built a dual-task pipeline on the FloodNet dataset capable of open-ended visual 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tipto-Ghosh&show_icons=true&theme=tokyonight&count_private=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tipto-Ghosh&theme=tokyonight" height="155"/>
-</p>
-
----
-
 <p align="center">
   <em>"Discipline and curiosity are the foundations of excellence."</em>
 </p>
